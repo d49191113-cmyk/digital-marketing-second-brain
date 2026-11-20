@@ -1,0 +1,6 @@
+{
+  "name": "Digital Marketing Second Brain",
+  "description": "Personal Digital Marketing Knowledge Universe featuring an interactive 3D galaxy, structured knowledge library, learning center, and AI study assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
